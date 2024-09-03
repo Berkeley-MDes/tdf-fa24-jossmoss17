@@ -26,6 +26,7 @@ This week, I designed a cool phone stand made of rocks. Check out all my cool sk
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
 
+<img width="200" alt="A random image" src="14ced77b9db56b6cf044cca19cfd96d2.png">
 ---
 
 It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
