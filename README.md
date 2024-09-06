@@ -1,3 +1,7 @@
+# Outline
+Week 2
+Week 1
+
 # Week 1: Progress Report 1 #
 ## Week of 09/05/24
 
