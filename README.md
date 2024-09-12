@@ -1,6 +1,37 @@
-# Outline
-Week 2
-Week 1
+# Week 2: Progress Report 2 #
+## Week of 09/12/24
+
+Hi! This is my second progress report for TDF. A lot has been happening and we're in the third week of school. It has been busy, to say the least. 
+
+#### My Reflections
+* First half of this "week" was figuring out how to laser-cut. It was very nerve-wracking, but I did it and now I feel like I am a video game character that level-ed up and unlocked a skill. The next thing is 3d printing, but in order to 3d print; I need to 3d model. And I made the executive decision to prioritize other things in my life over TDF. I know I want to learn technical skills, so this is still very important to me. I also acknowledge that setting this aside means I have to pick up more slack when I come back to this.
+
+#### My Proudest Accomplishments
+* Looking ahead and timing submitting Github Progress Reports on time and consistently.
+* Successfully setting up and laserprinting an object. 🎉
+* Asking and collaborating with peers to laserprint an object. Watching their process.
+* Spending a significant amount of time understand what Grasshopper does generally.
+* Opening and testing grasshopper to some extent.
+
+#### My Speculations
+* Why does the professor want us to do Grasshopper when there are other tools like Blendr or even AI Text to CAD? I think I know why, but I want him to say why.
+
+#### My Blockers/Fears
+* This week I prioritized working on my portfolio and the studio class over TDF. I recognize that I didn't spend much time really getting to know Grasshopper/Rhino as I should have.
+* I'm horrible at math and using grasshopper requires a level of geometry and calculus that I've forgotten. 
+* I can't download Rhino on my personal laptop so I can't follow along in class.
+* I'm afraid I'm not giving myself enough time to understand grasshopper at a deeper level.
+* I get really tired at 5 PM when we're having class and it is hard for me to pay attention by the time it is 5 pm. I've been trying to bring snacks to prevent being completely exhausted.
+* I'm afraid of submitting the TDF project due next Wednesday. I don't think I've learned much and don't have much to showcase from the last few weeks.
+ 
+#### My Plans
+* Next week, carve more time to practice Grasshopper/Rhino.
+* Learn markdown formatting to add photos into this Github .readme file
+* Ask others for help (peers, professors, design specialists, chatgpt)
+* Submit the TDF project 1 on time.
+* 3d print anything. 
+
+  
 
 # Week 1: Progress Report 1 #
 ## Week of 09/05/24
@@ -38,6 +69,7 @@ Hi there! Welcome to my first entry of my progress report. This past week has be
 * I need to reach out in-person to my professors, design specialists, and faculty to introduce myself as a person.
 * I need to figure out Grasshopper altogether. That part I left out because its a plug-in.
 * I need to review markdown formatting page. 
+
 
 
 # Week 0: Example Report 0 #
