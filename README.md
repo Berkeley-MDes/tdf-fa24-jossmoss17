@@ -1,5 +1,24 @@
-# Week 2: Progress Report 2 #
-## Week of 09/12/24
+# Welcome to Joseline's `README` 👩🏻‍💻
+
+## Week 3: Progress Report 3 - 09/19/24
+#### My Reflections on the TDF Project 1
+Over the weekend, I subconsciously was thinking about TDF Project 1. I'm not interested in making a phone stand, and I'm thinking that I want to create something that will bring joy to my housemate and my life. I'm thinking either a smiski stand or a vase.
+
+On Saturday, I saw these vases I was interested in potentially replicating.
+<img width="200" alt="Round Vase" src="assets/ThickVase.jpg">
+<img width="200" alt="Skinnier Tall Vase" src="assets/TallVase.png">
+
+#### My Proudest Accomplishments
+- [x] Spending time learning some new markdown formatting. Look at this cool checklist. _Sick, right?_
+
+#### My Blockers/Fears
+
+#### Upnext
+- [x] Meep Morp
+
+#### Closing Thoughts
+
+## Week 2: Progress Report 2 - 09/12/24
 
 Hi! This is my second progress report for TDF. A lot has been happening and we're in the third week of school. It has been busy, to say the least. 
 
@@ -33,8 +52,7 @@ Hi! This is my second progress report for TDF. A lot has been happening and we'r
 
   
 
-# Week 1: Progress Report 1 #
-## Week of 09/05/24
+## Week 1: Progress Report 1 - 09/05/24
 
 Hi there! Welcome to my first entry of my progress report. This past week has been very stressful in the TDF world. I think this component/class is where I am the weakest because I avoided anything CS/math related throughout highschool/university. I am naturally adverse to anything technical, which is ironic because I am doing my Master of Design in Emerging Technology. 
 
@@ -72,14 +90,23 @@ Hi there! Welcome to my first entry of my progress report. This past week has be
 
 
 
-# Week 0: Example Report 0 #
-## Week of 09/05/2024
+## Week 0: Example Report 0 - 09/05/2024
 
 This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
 
 <!---
+#### My Reflections
+#### My Proudest Accomplishments
+- [x] Spending time learning some new markdown formatting. Look at this cool checklist. _Sick, right?_
+#### My Speculations
+#### My Blockers/Fears
+#### My Plans
+- [ ] Meep Morp
+- [ ] Meep Morp
+- [x] Meep Morp
+
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
 
