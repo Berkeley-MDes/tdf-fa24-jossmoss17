@@ -2,18 +2,20 @@
 
 ## Week 3: Progress Report 3 - 09/19/24
 #### My Reflections on the TDF Project 1
-Over the weekend, I subconsciously was thinking about TDF Project 1. I'm not interested in making a phone stand, and I'm thinking that I want to create something that will bring joy to my housemate and my life. I'm thinking either a smiski stand or a vase.
+Over the weekend, I subconsciously was thinking about TDF Project 1. I'm not interested in making a phone stand, and I'm thinking that I want to create something that will bring joy to my housemate and my life. I'm thinking either a smiski stand or a vase. A vase because the shape is more complex and my dining table needs some flavor.
 
-On Saturday, I saw these vases I was interested in potentially replicating.
-<img width="200" alt="Round Vase" src="assets/ThickVase.jpg">
-<img width="200" alt="Skinnier Tall Vase" src="assets/TallVase.png">
+I saw these vases I was interested in potentially replicating.
+
+<img width="200" alt="Round Vase" src="assets/ThickVase.jpg"> <img width="200" alt="Skinnier Tall Vase" src="assets/TallVase.jpg">
+
+<sub> **Pictured:** Two vases I saw that piqued my interest whilst enjoying my Saturday in San Francisco </sub>
 
 #### My Proudest Accomplishments
-- [x] Spending time learning some new markdown formatting. Look at this cool checklist. _Sick, right?_
+- [x] Spending time learning some new markdown formatting. Look at this cool checklist. _Sick, right?_ Also adding images.
 
 #### My Blockers/Fears
 
-#### Upnext
+#### Planning for Next Week
 - [x] Meep Morp
 
 #### Closing Thoughts
