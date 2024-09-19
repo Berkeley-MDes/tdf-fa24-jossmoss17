@@ -1,6 +1,8 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
 
 ## Week 3: Progress Report 3 - 09/19/24
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wbT3PjdUb0M&t=18s/0.jpg)](https://www.youtube.com/watch?v=wbT3PjdUb0M&t=18s) 
 #### My Reflections on the TDF Project 1
 Over the weekend, I subconsciously was thinking about TDF Project 1. I'm not interested in making a phone stand, and I'm thinking that I want to create something that will bring joy to my housemate and my life. I'm thinking either a smiski stand or a vase. A vase because the shape is more complex and my dining table needs some flavor.
 
