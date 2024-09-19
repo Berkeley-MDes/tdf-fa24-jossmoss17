@@ -13,15 +13,19 @@ Here are vases I was originally going to 3d model/print.
 
 <sub> **Pictured:** Two vases I saw that piqued my interest whilst enjoying my Saturday in San Francisco </sub>
 
+
 I decided to model a headphone stand instead. It was great with learning.
 
- <img width="200" alt="Attempt One" src="assets/IMG_8848.jpg">  <img width="200" alt="Attempt Two" src="assets/IMG_8862.jpg">
- 
-<sub> **Pictured:** Picture 1 is my first 3d print, and picture 2 is my final attempt</sub>
+
+<img width="200" alt="Attempt One" src="assets/IMG_8848.jpg">  <img width="200" alt="Attempt Two" src="assets/IMG_8862.jpg">
+
+<sub> **Pictured:** Picture 1 is my first 3d print, and picture 2 is my final attempt </sub>
 
 
 <img width="200" alt="Final Print" src="assets/IMG_8867.jpg">
+
 <sub> **Pictured:** My final print technically works, but the measurements are off. This is due to PrusaSlicer issues or Grasshopper issues. Something I did wrong for sure. </sub>
+
 
 #### My Proudest Accomplishments
 - [x] Spending time learning some new markdown formatting. Look at this cool checklist. _Sick, right?_ Also adding images.
