@@ -19,12 +19,15 @@ Hi! It is the last week of September which is exciting. This week was much slowe
 
 Here are two iterations of my digital ecosystem. I initially did health and fitneess, but felt it was too high-level and not interesting. So I tried again with more conceptual models of transportation & mobility. 
 
-<img width="200" alt="Network Map 1" src="assets/NM_HF.jpg">
+<img width="500" alt="Network Map 1" src="assets/NM_HF.jpg">
 <sub> **Pictured:** My health and fitness network map </sub>
 
-<img width="200" alt="Network Map 2" src="assets/NM_TM.jpg">
+<br> <br>
+
+<img width="500" alt="Network Map 2" src="assets/NM_TM.jpg">
 <sub> **Pictured:** My transportation and mobility network map </sub>
 
+<br> <br>
 T&M were more interesting to me; especially because I can either drive or take the bus. The bus path has more interconnected technology that make it relatively painless for me. I realized i'm highly dependent on Google Maps throughout my entire journey. Interesting. I'm also curious about how the Clipper App, Clipper Machine, and CalCentral are connected. These are very interesting things I want to explore. 
 
 ## Week 3: Progress Report 3 - 09/19/24
