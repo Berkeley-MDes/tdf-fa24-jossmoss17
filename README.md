@@ -1,5 +1,23 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
 
+## Week 4: Progress Report 4 - 09/26/24
+
+Hi! It is the last week of September which is exciting. This week was much slower compared to the frenzy of TDF Project 1. Now we're moving into understanding the digital ecosystem.
+
+#### My Speculations
+* I will need to spend time learning firmware/hardware as it is unfamiliar to me. I've seen my friends arduino things together so I've seen it in real-life.
+* I'm excited to work with really smart people to create something exciting.
+
+#### My Blockers/Fears
+* I've never done firmware before
+* I missed monday's class because I was sick
+
+#### My Plans
+* Finish the assignment
+* Study the powerpoint provided and have a good idea of the firmware model and how humans interact with it.
+* How will I achieve platypus?
+
+
 ## Week 3: Progress Report 3 - 09/19/24
 
 [![My Computational Design Video](https://img.youtube.com/vi/wbT3PjdUb0M&t=18s/0.jpg)](https://www.youtube.com/watch?v=wbT3PjdUb0M&t=18s) 
