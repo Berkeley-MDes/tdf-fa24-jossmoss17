@@ -1,5 +1,10 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
 
+## Week 5: Progress Report 4 - 10/03/24
+Hi there. This week has been very challenging for me in TDF. I've been preoccupied with personal things and work related things and did not have the opportunity to take time on TDF as I wanted to. 
+
+I am meeting with a TA to get help; rather than lag behind. Additionally, I've been trying to show up to the Mdes Studio where my other peers are working on our assignments. So I can work with them-- rather than trying to figure it out on my own in my apartment late at night. I've been trying to be more productive-- but I don't have the time to pay attention to TDF.
+
 ## Week 4: Progress Report 4 - 09/26/24
 
 Hi! It is the last week of September which is exciting. This week was much slower compared to the frenzy of TDF Project 1. Now we're moving into understanding the digital ecosystem.
