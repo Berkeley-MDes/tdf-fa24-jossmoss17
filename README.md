@@ -3,7 +3,30 @@
 ## Week 5: Progress Report 4 - 10/03/24
 Hi there. This week has been very challenging for me in TDF. I've been preoccupied with personal things and work related things and did not have the opportunity to take time on TDF as I wanted to. 
 
-I am meeting with a TA to get help; rather than lag behind. Additionally, I've been trying to show up to the Mdes Studio where my other peers are working on our assignments. So I can work with them-- rather than trying to figure it out on my own in my apartment late at night. I've been trying to be more productive-- but I don't have the time to pay attention to TDF.
+I am meeting with a TA to get help; rather than lag behind. Additionally, I've been trying to show up to the Mdes Studio where my other peers are working on our assignments. So I can work with them-- rather than trying to figure it out on my own in my apartment late at night. 
+
+In terms of progress
+
+#### My Reflections
+* I had many issues getting my photon 2 to come online. I had to go through Device Doctor and Chatgpt to eventually get it online.
+<img width="1434" alt="Photon 2 is offline" src="https://github.com/user-attachments/assets/16c3103e-a625-490f-b445-cf46a65e2b27">
+
+
+* I'm having issues with flashing the code that was provided.
+<img width="645" alt="Error with Flashing" src="https://github.com/user-attachments/assets/0a0974b4-47f9-460e-bf0d-10c5cb8fbd45">
+
+* This is my final output for Button Led Pulse
+![IMG_9384](https://github.com/user-attachments/assets/e04521c8-ab01-4693-9d62-763501dcb8c0)
+
+
+
+#### My Speculations
+* I will improve by connecting with my peers for help
+* I will improve if I continue to ask ChatGPT for help
+* I realized this type of work is unnecessary for me as I'm primarily a product designer and more focused on the bigger picture-- rather than to get it to work. 
+ 
+
+
 
 ## Week 4: Progress Report 4 - 09/26/24
 
