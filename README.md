@@ -1,4 +1,6 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
+## Week 6: Progress Report 4 - 10/10/24
+
 
 ## Week 5: Progress Report 4 - 10/03/24
 Hi there. This week has been very challenging for me in TDF. I've been preoccupied with personal things and work related things and did not have the opportunity to take time on TDF as I wanted to. 
