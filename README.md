@@ -1,6 +1,13 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
-## Week 6: Progress Report 4 - 10/10/24
+## Week 6: Progress Report 5 - 10/10/24
+Hi there. Happy week 6! It is spooky season officially. 
 
+#### Reflections
+<img width="500" alt="FSR Sensor Particle2" src="assets/IMG_9609.jpg">
+<img width="500" alt="Bugs on my Code" src="assets/IMG_9602.jpg">
+<img width="500" alt="My particle2 on the floor because my desktop is on the floor" src="assets/IMG_9590.jpg">
+
+#### Speculations
 
 ## Week 5: Progress Report 4 - 10/03/24
 Hi there. This week has been very challenging for me in TDF. I've been preoccupied with personal things and work related things and did not have the opportunity to take time on TDF as I wanted to. 
