@@ -3,11 +3,22 @@
 Hi there. Happy week 6! It is spooky season officially. 
 
 #### Reflections
-<img width="500" alt="FSR Sensor Particle2" src="assets/IMG_9609.jpg">
+I learned how to connected my particle 2 to my home network via the VPN. I had some help from Baurzhan which was very helpful. I had to download GlobalProtect as well as Particle CLI and played around with some terminal commands to successfully connect my particle 2. It worked out and I'm glad I am able to work on the micro-controller from home. I watched the tutorials, asked Chatgpt, and feel more comfortable using the particle 2. Although I'm deeply behind on my assignments, I am making general progress to catch up.
+
+<sub> **Pictured Below:** My button data </sub>
+
+<img width="500" alt="My button data" src="assets/IMG_9609.jpg">
+
+<sub> **Pictured Below:** Bugs on my Code </sub>
+
 <img width="500" alt="Bugs on my Code" src="assets/IMG_9602.jpg">
+
+<sub> **Pictured Below:** My particle I connected at home via VPN! </sub>
+
 <img width="500" alt="My particle2 on the floor because my desktop is on the floor" src="assets/IMG_9590.jpg">
 
 #### Speculations
+My FSR sensor wasn't correctly sensing at the right places. I believe my pins are not at the right spot, but I can't tell from the pictures provided from the tutorials. I'm speculating that my final project 2 for TDF may include some sort of sensor. It was easier than I thought. To be honest, the explanations are really really hard to follow, but the images I can just do. It is satisfying, it feels like i'm completing a puzzle or crocheting. I know this stuff really stresses me out, so I made sure to get comfy, put on a movie, and get ready to work...
 
 ## Week 5: Progress Report 4 - 10/03/24
 Hi there. This week has been very challenging for me in TDF. I've been preoccupied with personal things and work related things and did not have the opportunity to take time on TDF as I wanted to. 
