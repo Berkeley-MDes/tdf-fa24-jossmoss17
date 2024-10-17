@@ -2,6 +2,16 @@
 ## Week 7: Progress Report 7 - 10/17/24
 Woah, I am tired this week! It has been a lot, but I've been tinkering away on my TDF assignments so that is good. I don't really feel as behind as when I first started, and its definitely due to asking for help, reaching out to the TA/instructing team, and watching my fair share of tutorials.
 
+Something I really struggled with this week is understanding the basics. I took some time to take a step back to figure out what I am using and what it is all for. I watched some middle school Youtube tutorials and it was very helpful. Especially understanding the negative/positive pins and the rails/buses, and even how to read a breadboard.
+
+<sub> **Pictured Below:** The Youtube Video that I watched </sub>
+
+<img width="500" alt="breadboard basics" src="assets/IMG_9989.jpg">
+
+<sub> **Pictured Below:** My notes </sub>
+
+<img width="500" alt="my notes" src="assets/IMG_9997.jpg">
+
 #### Reflections
 * Our team has resubmitted our proposal for review with Jeff and got really great feedback last week. We added three inputs with three outputs for our project 2. It will be really cool to see everything come together.
 * I'm specifically focusing on getting the OLED to display literally anything, which worked! I was aable to display customized text as well. I'm planning on reading through Tommy's GitHub because I know it has a lot of relevant helpful material.
