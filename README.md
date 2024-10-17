@@ -5,12 +5,17 @@ Woah, I am tired this week! It has been a lot, but I've been tinkering away on m
 #### Reflections
 * Our team has resubmitted our proposal for review with Jeff and got really great feedback last week. We added three inputs with three outputs for our project 2. It will be really cool to see everything come together.
 * I'm specifically focusing on getting the OLED to display literally anything, which worked! I was aable to display customized text as well. I'm planning on reading through Tommy's GitHub because I know it has a lot of relevant helpful material.
-* I was able to solder for the first time and do really interesting things with the technology. I appreciate that my peers are willing to patiently show me how things are done. Shout out to Abdi and Kaylee for sure. 
+* I was able to solder for the first time and do really interesting things with the technology. I appreciate that my peers are willing to patiently show me how things are done. Shout out to Abdi and Kaylee for sure.
+* I was able to successfully add a motion sensor that lights up when lights are attached to it. :D 
 
 #### Speculations
 * I will have challenges with 3D printing as I'm trying out Fusion 360 for the first time. I feel that Rhino is too complicated for my needs and that Fusion 360 might be better suited. I'm making some shapes and I just need to spend more time (that I don't have...)
 * I think I will learn a lot about how APIs work on physical hardware. I think a lot of my past experiences were about APIs from a third person business perspective-- but I'm getting the chance to watch Omar actually connect it all together and how it will work.
 * I'm excited to see the outcome of our work. It'll be really awesome.
+
+<sub> **Pictured Below:** motion sensor and the light! </sub>
+
+<img width="500" alt="motion sensor and light!" src="assets/IMG_9995.jpg">
 
 <sub> **Pictured Below:** Measuring the photon to think about how I should print </sub>
 
