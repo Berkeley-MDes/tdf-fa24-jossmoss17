@@ -1,4 +1,16 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
+## Week 8: Progress Report 8 - 10/24/24
+#### Reflections
+* Our project came out nicely. We all collaborated really well together and was very understanding when each individual needed time away or wanted to contribute. I am really proud of how far we've come and the progress we've made together.
+* We were able to display information on the OLED via the Web API
+
+#### Speculations
+* We could continue our effort through other customizable pieces. There could be different ways to display our visual aid with a different emotion.
+* Abdi presented our information in a darker, heavier way, but I prefer lighter and less intense.
+* I may want to take the technology and make my own shell out of it to consider the emotions that can be evoked. I spoke with Chris about it and he gave some really interesting insight.
+
+![IMG_9864 (1)](https://github.com/user-attachments/assets/4efaa43b-89c1-4068-92c9-20880f3c6ca9)
+
 ## Week 7: Progress Report 7 - 10/17/24
 Woah, I am tired this week! It has been a lot, but I've been tinkering away on my TDF assignments so that is good. I don't really feel as behind as when I first started, and its definitely due to asking for help, reaching out to the TA/instructing team, and watching my fair share of tutorials.
 
