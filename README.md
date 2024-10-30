@@ -1,4 +1,17 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
+## Week 9: Progress Report 9 - 10/31/24
+#### Reflections
+* Because this is a new week and a new project; I wanted to get started early to avoid any panic or concerns down the line. I paid close attention in class, especially following the tutorials live. It was helpful because I believe I had a really solid understanding of ZeroWidth.ai off the bat at the end of our first class. On Tuesday, I followed some of the tutorials to set up my account, watch TJ's tutorials, and successfully created a project with 2 working experiments. I was able to complete experiment 1 and 2 successfully. I'm currently stuck on experiment 3 as my monitor is not releasing any outputs. I followed the steps, but there is nothing showing. Additionally, I tried using my own knowledge base and other people's knowledge bases, but my agent would no longer respond. It would submit back empty responses which is an issue. I posted my question in the Slack channel, and hopefully will get help soon. I think I am off to a good start.
+
+#### Speculations
+* I speculate that as I continue my tutorials, I will learn more about LLMS to an intermediate knowledge. I am okay with not fully understanding it, but it will be great value to me to understand tokens, embeddings, flows, agents, and more. These definitions will enhance my overall understanding of how LLMs work.
+* I should continue to be asking questions in the Slack, testing flows in the builder, and not procrastinating due to fear. I think this will help me stay on top of TDF for this project!
+
+<sub> **Pictured Below:** Where I am currently stuck in Experiment 3. My monitor is not displaying anything!  </sub>
+  <img width="1767" alt="Screenshot 2024-10-29 at 10 09 00 PM" src="https://github.com/user-attachments/assets/6abc131b-2a49-419a-a68e-3b9e572f5e90">
+
+
+
 ## Week 8: Progress Report 8 - 10/24/24
 #### Reflections
 * Our project came out nicely. We all collaborated really well together and was very understanding when each individual needed time away or wanted to contribute. I am really proud of how far we've come and the progress we've made together.
