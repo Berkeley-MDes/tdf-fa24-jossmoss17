@@ -1,6 +1,25 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
 ## Week 9: Progress Report 9 - 10/31/24
 #### Reflections
+* I just submitted TDF Project #3! Yay! It was certainly easier than project 1 and 2 because of a few reasons.
+* It was good that I started early, asked many many questions, and looked for guidance when I needed help. I felt very comfortable with my progress because I had the energy to listen. I learned about the components that make up a working agent model including different types of parameters like temperature, variables, logic, math, etc. I was also able to see the breakdown of how each node affects my agent. Previously, I had worked with watsonx, but it was quite challenging to use. Now I have a deeper understanding of what it all means.
+* I struggled a bit in the last stretch because of lack of time. The instructing team was helpful in providing their support and I was able to finish on time. Experiment 5 was a bit easier than I thought. I didn't have any major bugs, more just tweaks that I wanted to make to the agent's output style. 
+
+#### Speculations
+* I am not sure if this is something I want to utiize in my last project. Although it was interesting, I'm not the most fascinated in LLMs. I do think it sounds cool that I know how it works and what actions are needed to construct one.
+* In the future, I can definitely see this being helpful. I think its a more advanced CTRL-F. I feel like it can help reduce redundancy in customerm service or even schoolwork.
+
+<sub> **Pictured Below:** Experiment 3 resolved!  </sub>
+<img width="1313" alt="Experiment 3 on Zerowidth.ai" src="https://github.com/user-attachments/assets/241436a0-4ffd-4e05-8757-d06a8f9efbdf">
+
+<sub> **Pictured Below:** Adjusting the number slider </sub>
+<img width="1619" alt="Flow Builder on Zerowidth.ai" src="https://github.com/user-attachments/assets/6576cc76-a38f-44d5-aa05-41c47b025a92">
+
+
+
+
+## Week 9: Progress Report 9 - 10/31/24
+#### Reflections
 * Because this is a new week and a new project; I wanted to get started early to avoid any panic or concerns down the line. I paid close attention in class, especially following the tutorials live. It was helpful because I believe I had a really solid understanding of ZeroWidth.ai off the bat at the end of our first class. On Tuesday, I followed some of the tutorials to set up my account, watch TJ's tutorials, and successfully created a project with 2 working experiments. I was able to complete experiment 1 and 2 successfully. I'm currently stuck on experiment 3 as my monitor is not releasing any outputs. I followed the steps, but there is nothing showing. Additionally, I tried using my own knowledge base and other people's knowledge bases, but my agent would no longer respond. It would submit back empty responses which is an issue. I posted my question in the Slack channel, and hopefully will get help soon. I think I am off to a good start.
 
 #### Speculations
