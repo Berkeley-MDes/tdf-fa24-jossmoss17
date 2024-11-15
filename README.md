@@ -1,5 +1,17 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
-## Week 9: Progress Report 9 - 10/31/24
+
+## Week 11: Progress Report 11 - 10/14/24
+#### Reflections
+* This past week was not as eventful because we are in between project 3 and 4.
+* I completed my LLMs project and it was a success. I submitted the report and showed my project outcomes in class. I received helpful feedback from my peers and I think I could have included more comparative analysis between different variables and parameters.
+* This current week I've been sketching out potential concepts and ideas with Upasana because we are planning on collaborating together
+
+#### Speculations
+* I speculate that things will ramp up quickly for the final project. I think we'll have a really cool idea and I'm excited to work with Upasana and Hongxi on this final project.
+* I'm hoping that our project will be related to waste management or solve an everyday problem.
+
+
+## Week 10: Progress Report 10 - 11/7/24
 #### Reflections
 * I just submitted TDF Project #3! Yay! It was certainly easier than project 1 and 2 because of a few reasons.
 * It was good that I started early, asked many many questions, and looked for guidance when I needed help. I felt very comfortable with my progress because I had the energy to listen. I learned about the components that make up a working agent model including different types of parameters like temperature, variables, logic, math, etc. I was also able to see the breakdown of how each node affects my agent. Previously, I had worked with watsonx, but it was quite challenging to use. Now I have a deeper understanding of what it all means.
@@ -14,8 +26,6 @@
 
 <sub> **Pictured Below:** Adjusting the number slider </sub>
 <img width="1619" alt="Flow Builder on Zerowidth.ai" src="https://github.com/user-attachments/assets/6576cc76-a38f-44d5-aa05-41c47b025a92">
-
-
 
 
 ## Week 9: Progress Report 9 - 10/31/24
