@@ -1,6 +1,14 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
 
-## Week 11: Progress Report 11 - 10/14/24
+## Week 12: Progress Report 12 - 11/24/24
+Hello! This is week 12 and I'm looking forward to beginning TDF Project 4. I had a great call with Jeff on Friday and he kindly walked me through different requirements. This next project I'm looking to mix, master, extend, and evolve computational design, digital ecosystems, fine-tuning llms, and collaborative design platforms. 
+
+#### Reflections
+*  
+#### Speculations
+* 
+
+## Week 11: Progress Report 11 - 11/14/24
 #### Reflections
 * This past week was not as eventful because we are in between project 3 and 4.
 * I completed my LLMs project and it was a success. I submitted the report and showed my project outcomes in class. I received helpful feedback from my peers and I think I could have included more comparative analysis between different variables and parameters.
