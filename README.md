@@ -3,10 +3,16 @@
 ## Week 12: Progress Report 12 - 11/24/24
 Hello! This is week 12 and I'm looking forward to beginning TDF Project 4. I had a great call with Jeff on Friday and he kindly walked me through different requirements. This next project I'm looking to mix, master, extend, and evolve computational design, digital ecosystems, fine-tuning llms, and collaborative design platforms. 
 
+I met with Upasana and Hongxi to decide on our project and we've decided to focus on designing a wearable shoe insole with IoT technology for elderly care. Our insole will utilize a photon, machine learning algorithm, cloud computing, interface design for mobile. Our inspiration draws from our own personal experiences with caring and cherishing our elderly loved ones. Additional inspiration draws from previously existing work on mapping and understanding elderly care footwear inside homes.
+
 #### Reflections
-*  
+* We started early, moved quickly, made decisions and stuck with it. I like collaborating with them because they are easy-going and relaxed. I think Hongxi will focus on machine learning, Upasana wants to work on conceptual sketches/diagrams, and I want to play with physical fabrication with the insoles. The material will be interesting to explore. 
+
 #### Speculations
-* 
+* We will draw inspiration from previous works we found online. We noticed there are IOT devices related to tracking within a home, but not as many tracking for specifically elders outside of home. Many of the devices for outside the home are for fitness and for individual users. These users are typically tracking for themselves, but our focus has a second user (the caretaker) who is the primary observer of the iot device outputs/serial monitor.
+
+<sub> **Pictured Below:** Inspiration from [Sheng Hung Lee's Work. I spy Barry in his AboutMe!!!!](https://www.shenghunglee.com/smart-footwear)  </sub>
+![Screenshot 2024-11-20 at 2 47 21 PM](https://github.com/user-attachments/assets/1102cd63-14a0-4912-b085-c6bc19698b0f)
 
 ## Week 11: Progress Report 11 - 11/14/24
 #### Reflections
