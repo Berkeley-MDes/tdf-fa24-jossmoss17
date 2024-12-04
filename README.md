@@ -1,6 +1,6 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
 
-## Week 12: Progress Report 13 - 12/5/24
+## Week 13: Progress Report 13 - 12/5/24
 
 Hi! Happy post-thanksgiving! We only have two weeks-- less than two weeks until the semester wraps up. Isn't that crazy!!!! Wowee. We've made significant progress in our work and came across a few bumps in the way, but it will get done!! 
 
