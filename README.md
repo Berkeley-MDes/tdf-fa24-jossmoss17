@@ -1,5 +1,43 @@
 # Welcome to Joseline's `README` 👩🏻‍💻
 
+## Week 12: Progress Report 13 - 12/5/24
+
+Hi! Happy post-thanksgiving! We only have two weeks-- less than two weeks until the semester wraps up. Isn't that crazy!!!! Wowee. We've made significant progress in our work and came across a few bumps in the way, but it will get done!! 
+
+#### Reflections
+Our architecture has changed over time as we conducted experiments and tested what worked. Due to primarily time and effort constraint, we're focusing on 
+
+Inputs (From User One)
+* 3 FSR Sensors (Input to measure activity)
+* 1 Photoreceptor (Input to show wearing/not wearing)
+* 1 GPS API (Input to calculate location)
+
+Connected through Edge Impulse and Cloud
+
+Outputs (To User Two)
+* Mobile Web Browser experience (Ability to see location, activity, measurement) 
+
+<sub> **Pictured Below:** A Diagrammatic Analysis To-Be  </sub>
+
+<img src= "https://github.com/user-attachments/assets/51d15913-aed2-409c-bece-6053a4ee275f" alt="Diagrammatic Analysis" width="500">
+
+
+#### Speculations
+<sub> **Pictured Below:** Tested adding foil to the Stemma Temperature as conducive material for binary on/off. The threshold is slow to start and small. FAIL! ❌ </sub>
+
+<img src="https://github.com/user-attachments/assets/6786e91a-1e75-48d5-89ce-01f053a7a9bd" alt="Hand touching stemma temperature" width="500">
+
+
+<sub> **Pictured Below:** Screenshot from Edge Impulse of a "running" state experiment. There are three sensors on a single foot showing different pressures in a single set of seconds </sub>
+
+<img src="https://github.com/user-attachments/assets/c102dd17-c610-49ae-a0ad-2854b9c6c7d2" alt="Edge Impulse ML Data of Running Activity" width="600">
+
+
+<sub> **Pictured Below:** Screen 1 shows a SMS notification from Sen Sole indicating user 1 activity. Screen 2 shows web browser experience of user 2 observing user 1's activity </sub>
+
+<img width="676" alt="Dual Mobile Screen UI" src="https://github.com/user-attachments/assets/2396d872-92f2-4482-b12d-0faae3c052ed">
+
+
 ## Week 12: Progress Report 12 - 11/24/24
 Hello! This is week 12 and I'm looking forward to beginning TDF Project 4. I had a great call with Jeff on Friday and he kindly walked me through different requirements. This next project I'm looking to mix, master, extend, and evolve computational design, digital ecosystems, fine-tuning llms, and collaborative design platforms. 
 
